@@ -1,0 +1,15 @@
+C:\Users\Engie\Desktop\Pessoais PC\Curso C-sharp\projetos\Aula152\Aula152\bin\Debug\net6.0\Aula152.exe
+C:\Users\Engie\Desktop\Pessoais PC\Curso C-sharp\projetos\Aula152\Aula152\bin\Debug\net6.0\Aula152.deps.json
+C:\Users\Engie\Desktop\Pessoais PC\Curso C-sharp\projetos\Aula152\Aula152\bin\Debug\net6.0\Aula152.runtimeconfig.json
+C:\Users\Engie\Desktop\Pessoais PC\Curso C-sharp\projetos\Aula152\Aula152\bin\Debug\net6.0\Aula152.dll
+C:\Users\Engie\Desktop\Pessoais PC\Curso C-sharp\projetos\Aula152\Aula152\bin\Debug\net6.0\Aula152.pdb
+C:\Users\Engie\Desktop\Pessoais PC\Curso C-sharp\projetos\Aula152\Aula152\obj\Debug\net6.0\Aula152.csproj.AssemblyReference.cache
+C:\Users\Engie\Desktop\Pessoais PC\Curso C-sharp\projetos\Aula152\Aula152\obj\Debug\net6.0\Aula152.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Engie\Desktop\Pessoais PC\Curso C-sharp\projetos\Aula152\Aula152\obj\Debug\net6.0\Aula152.AssemblyInfoInputs.cache
+C:\Users\Engie\Desktop\Pessoais PC\Curso C-sharp\projetos\Aula152\Aula152\obj\Debug\net6.0\Aula152.AssemblyInfo.cs
+C:\Users\Engie\Desktop\Pessoais PC\Curso C-sharp\projetos\Aula152\Aula152\obj\Debug\net6.0\Aula152.csproj.CoreCompileInputs.cache
+C:\Users\Engie\Desktop\Pessoais PC\Curso C-sharp\projetos\Aula152\Aula152\obj\Debug\net6.0\Aula152.dll
+C:\Users\Engie\Desktop\Pessoais PC\Curso C-sharp\projetos\Aula152\Aula152\obj\Debug\net6.0\refint\Aula152.dll
+C:\Users\Engie\Desktop\Pessoais PC\Curso C-sharp\projetos\Aula152\Aula152\obj\Debug\net6.0\Aula152.pdb
+C:\Users\Engie\Desktop\Pessoais PC\Curso C-sharp\projetos\Aula152\Aula152\obj\Debug\net6.0\Aula152.genruntimeconfig.cache
+C:\Users\Engie\Desktop\Pessoais PC\Curso C-sharp\projetos\Aula152\Aula152\obj\Debug\net6.0\ref\Aula152.dll
